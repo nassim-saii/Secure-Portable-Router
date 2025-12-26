@@ -4,6 +4,8 @@ Secure Portable Router Project
 
 This project, developed at **TEK-UP Private Higher School of Technology and Engineering** , presents the design and implementation of a **secure portable network solution**. It is a modular system built on a Raspberry Pi that addresses modern threats in both personal and public environments by integrating advanced monitoring, traffic filtering, and secure communication.
 
+ <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Screenshot%202025-11-30%20222412.png"  alt="screenshot" width="Auto" height="Auto" />
+
 🌟 Key Features
 ---------------
 
